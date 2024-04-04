@@ -647,8 +647,32 @@ cursor:pointer;
     border-radius: 50%;
     object-fit: cover;
     margin: 0 auto;
-    }
 
-  
-    
+    }
+    .about-img img{
+        border-radius: 1%;
+    }
+    .box{
+        padding:22px 12px;
+        width: 300px;
+        height:420px;
+        margin-left: 6%;
+    }
+    .main-content cite{
+        font-size: 20px;  
+    }
+    .main-content h1{
+        margin-top:-20px;
+        font-size: 40px;
+        text-align: center;
+       
+    }
+    .scroll-art{
+        width: 99%;
+    }
+    .row{
+       
+        width: 300px;
+        margin: 0 auto;
+    }
  }
